@@ -28,7 +28,7 @@ const Story1 = () => {
     }, []);
   return (
     <ScrollView>
-      <Header title="Lighthose Story"/>
+      <Header title="Lighthouse Story"/>
       <View style={styles.container}>
       
       {isLoading ? <ActivityIndicator/> : (
