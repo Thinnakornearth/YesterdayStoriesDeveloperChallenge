@@ -1,4 +1,4 @@
-import { View, StyleSheet, Button, ScrollView} from 'react-native'
+import { View, StyleSheet, Button } from 'react-native'
 import { ActivityIndicator, FlatList, Text } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import Header from './Header'
