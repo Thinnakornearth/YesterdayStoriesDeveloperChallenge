@@ -1,4 +1,4 @@
 # Story Application
 
 * React-native
-* android studio
+* Android studio
